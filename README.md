@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Samet</h1>
 <h3 align="center">A Passionate Software Developer from Türkiye</h3>
 
-- 🌱 I’m currently learning **NextJS**
-
-- 💬 Ask me about **react , NextJS**
 
 - 📫 How to reach me **aaslan1710@gmail.com**
 
